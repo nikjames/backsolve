@@ -1,0 +1,183 @@
+{
+  "hub": {
+    "guide": "Borrowing for a car or a personal expense usually starts with one number you already know. Maybe it is the payment you can handle each month. Maybe it is the sticker price on a car you like. Backsolve lets you start from that number and work back to the rest.\n\n### Setting a budget before you shop\n\nThe first decision is how much to spend in total. If you know your comfortable monthly payment, the car affordability question turns it into a price ceiling. The $400 payment page shows the same idea for one common budget. A widely used guide is the 20/4/10 rule. Put 20% down, finance for no more than four years, and keep car costs under 10% of gross income. Treat it as a starting point, not a requirement.\n\n### Shaping the loan around a car you picked\n\nOnce you have a specific car in mind, three levers change the payment: the down payment, the loan length and the interest rate. The car payment question shows what a given deal costs each month and in total interest. The down payment question tells you how much cash it takes to reach a target payment. The loan length question shows how many months that payment requires. The rate question shows the highest rate that still fits your budget. Stretching the term lowers the payment but raises total interest. A longer loan also keeps you owing more than the car is worth for longer.\n\n### Personal loans\n\nPersonal loans work the same way, without a car as collateral. Rates tend to vary more with credit, so the rate you are offered matters a lot. The personal loan payment question shows the monthly cost of a set amount. The affordability question works backward from a payment to the largest loan it supports. Check whether the lender charges an origination fee, since it can reduce the cash you receive.\n\nWhichever question you start with, compare the total interest, not only the monthly payment. Getting preapproved by a bank or credit union before you shop gives you a real rate to plug in."
+  },
+  "pages": {
+    "how-much-car-can-i-afford": {
+      "intro": "Most people ask this before they visit a dealer, when they know what they can pay each month but not what that buys. Working backward from your payment gives you a firm price ceiling. That makes it easier to filter listings and to hold your ground when a salesperson focuses only on the monthly cost.",
+      "tips": [
+        "Add sales tax, title and registration to any price you compare against your result. A car with a sticker price right at your limit will likely go over once fees are added.",
+        "Run the calculator at your preapproved rate and again at a rate one or two points higher. Dealer financing offers do not always match what you expected.",
+        "Price out insurance before settling on a payment. A newer or sportier car can raise your premium enough to change what feels affordable."
+      ],
+      "faq": [
+        {
+          "q": "What is the 20/4/10 rule for buying a car?",
+          "a": "It is a rule of thumb for keeping a car purchase manageable. Put at least 20% down, finance for four years or less, and keep total car costs under 10% of gross income. Many buyers can't meet all three parts, but it shows how far a plan stretches."
+        },
+        {
+          "q": "Should I count my trade-in as part of the down payment?",
+          "a": "Yes, the equity from a trade-in works like cash down. Use the trade-in value minus any balance you still owe on it. If you owe more than the car is worth, that negative equity is often added to the new loan."
+        },
+        {
+          "q": "Does the price I can afford change for a used car?",
+          "a": "The math is the same, but used car loans often carry higher rates than new car loans. Enter the rate you are actually offered for a used vehicle. A higher rate means the same payment supports a lower price."
+        }
+      ]
+    },
+    "car-payment": {
+      "intro": "This is the question to ask once you have a specific car and a price quote in hand. Seeing the monthly payment next to the total interest helps you judge whether a deal fits your budget. It also lets you check the dealer's numbers before you sign anything.",
+      "tips": [
+        "Ask the dealer for the out-the-door price and use that as the car price. It includes taxes and fees that otherwise get rolled into the loan quietly.",
+        "Compare the total interest shown here across a few loan lengths. Two loans with similar payments can differ by thousands of dollars in interest.",
+        "If the dealer quotes a higher payment than this result, ask for an itemized breakdown. Add-ons like extended warranties or service plans are often financed into the loan."
+      ],
+      "faq": [
+        {
+          "q": "Why is the dealer's payment different from the calculator?",
+          "a": "Dealers often include sales tax, fees and optional products in the amount financed. The rate may also differ from what you entered. Ask for the amount financed, the APR and the term, then enter those numbers to compare."
+        },
+        {
+          "q": "Is APR the same as the interest rate?",
+          "a": "Not exactly. The APR includes certain finance charges along with interest, so it is usually equal to or a little higher than the base rate. When comparing loan offers, APR gives the more complete picture."
+        },
+        {
+          "q": "Does paying extra each month lower my total cost?",
+          "a": "On a simple interest car loan, extra payments usually reduce the principal and the interest that follows. Confirm with your lender that extra money goes toward principal. Also check your contract for any prepayment penalty."
+        }
+      ]
+    },
+    "how-much-to-put-down-on-a-car": {
+      "intro": "People ask this when they have found a car but the payment on the quote is higher than they want. Solving for the down payment shows exactly how much cash closes the gap. You can then decide whether to save more, choose a cheaper car or change the loan instead.",
+      "tips": [
+        "Keep an emergency fund intact after making your down payment. Emptying your savings to lower a payment can leave you stuck when a repair comes up.",
+        "A larger down payment helps you avoid owing more than the car is worth early in the loan. New cars tend to lose value fastest in their first few years.",
+        "If the result is more cash than you have, try adding 12 months to the loan and compare. Then check how much total interest that change adds."
+      ],
+      "faq": [
+        {
+          "q": "Do I need 20% down on a car?",
+          "a": "No general rule requires 20%, and many car loans are made with less. The 20% figure is a guideline meant to keep you from owing more than the car's value. Your lender can tell you its actual minimum, if it has one."
+        },
+        {
+          "q": "What is gap insurance and does a small down payment make it matter more?",
+          "a": "Gap insurance covers the difference between what you owe and what the car is worth if it is totaled or stolen. It matters most when you put little down or take a long loan. A bigger down payment shrinks the gap it would cover."
+        },
+        {
+          "q": "Can a rebate count toward my down payment?",
+          "a": "Often, yes. Manufacturer cash rebates can usually be applied to reduce the amount financed. Ask the dealer whether the rebate is applied before or after sales tax, since that changes the final numbers."
+        }
+      ]
+    },
+    "how-long-should-my-car-loan-be": {
+      "intro": "Buyers ask this when they have a price and a payment target and want to know how long payoff will take. The answer shows the term that fits your budget. It also flags when a payment only works by stretching the loan further than you might like.",
+      "tips": [
+        "If the result is well past 60 months, treat it as a sign the car may be a stretch. A lower price or larger down payment can bring the term back down.",
+        "Lenders sometimes charge higher rates on longer terms. Ask for quotes at several lengths, since the rate you entered may not hold for every term.",
+        "Compare the loan length to how long you plan to keep the car. Trading in before the loan ends often means rolling a leftover balance into the next loan."
+      ],
+      "faq": [
+        {
+          "q": "Is a 72 or 84 month car loan a bad idea?",
+          "a": "Longer loans lower the payment but cost more in total interest. They also raise the chance you will owe more than the car is worth for years. Some buyers choose them anyway, but it helps to see the total cost first."
+        },
+        {
+          "q": "Why does the answer come out to an odd number of months?",
+          "a": "The calculator finds the exact term that matches your payment. Lenders usually offer set terms like 48, 60 or 72 months. Pick the nearest offered term, then use the car payment question to see the real monthly amount."
+        },
+        {
+          "q": "Can I pay off a car loan early?",
+          "a": "Most auto loans allow early payoff, and doing so cuts the remaining interest. Check your contract for a prepayment penalty first. Loans that use precomputed interest may return less savings when paid early."
+        }
+      ]
+    },
+    "car-loan-interest-rate-needed": {
+      "intro": "This question comes up when a payment is close to your budget but not quite there. Solving for the rate tells you the highest rate that still works. You can then compare it with preapproval offers and see whether a different lender or better credit could make the deal fit.",
+      "tips": [
+        "Get preapproved by a bank or credit union before visiting the dealer. Then you can hold the dealer's offer up against the rate this page says you need.",
+        "If the needed rate is far below anything you are offered, negotiation alone is unlikely to close the gap. Changing the price or down payment moves the payment more.",
+        "Look for manufacturer promotional financing on the specific model. Some of these deals require giving up a cash rebate, so compare both options."
+      ],
+      "faq": [
+        {
+          "q": "What affects the car loan rate I'll be offered?",
+          "a": "Your credit history is usually the biggest factor. Lenders also look at the loan term, the car's age, your down payment and your income compared with your debts. Rates differ between lenders too, so shopping around matters."
+        },
+        {
+          "q": "Does shopping for car loan rates hurt my credit?",
+          "a": "Each application can trigger a hard inquiry. Credit scoring models generally treat several auto loan inquiries within a short window as one. Doing your rate shopping within a couple of weeks limits the impact."
+        },
+        {
+          "q": "Can I refinance later for a lower rate?",
+          "a": "Often, yes, if your credit improves or rates fall. Refinancing replaces your loan with a new one, usually from another lender. Check any fees and whether the new term pushes back your payoff date."
+        }
+      ]
+    },
+    "car-for-400-a-month": {
+      "intro": "A $400 payment is a common budget for buyers comparing used and newer cars. This page shows the price that payment covers, so you can search listings with a clear limit. It also lets you see how a bigger down payment or a different term stretches the same $400.",
+      "tips": [
+        "Change the loan length to 48 months and see how far the price drops. That shows how much of your buying power comes from stretching the term.",
+        "Use the result as a cap on the out-the-door price, not the advertised price. A car listed right at your limit can top $400 a month once taxes are added.",
+        "If $400 is your whole transportation budget, the loan can't use all of it. Insurance, fuel and upkeep come on top of the payment."
+      ],
+      "faq": [
+        {
+          "q": "Is $400 a month a lot for a car payment?",
+          "a": "It depends on your income and other debts. Under the 20/4/10 rule of thumb, total car costs stay under 10% of gross income. Add insurance and fuel to the $400 to see how your full cost compares."
+        },
+        {
+          "q": "How much more car does a bigger down payment buy at $400 a month?",
+          "a": "Each extra dollar down adds about a dollar to the price you can afford, because the payment stays the same. Change the down payment field to see the exact new price."
+        },
+        {
+          "q": "Would leasing get me a nicer car for $400?",
+          "a": "Lease payments are often lower than loan payments on the same car, because you pay for depreciation rather than the full price. You don't own the car at the end, and mileage limits apply. This calculator covers loans, not leases."
+        }
+      ]
+    },
+    "personal-loan-payment": {
+      "intro": "People check this when they are weighing a personal loan for debt consolidation, a repair or a large purchase. Seeing the payment and total interest before applying helps you compare offers on equal terms. It also shows whether a shorter term is within reach.",
+      "tips": [
+        "If you are consolidating cards, compare this payment with the minimums you pay now. A loan payment may be higher, but it comes with a fixed end date.",
+        "Enter the full loan amount, even if an origination fee will be taken out of it. You repay the whole amount, so the payment is based on that figure.",
+        "Try a 36 month and a 60 month term with the same amount. The difference in total interest shows what the lower payment really costs."
+      ],
+      "faq": [
+        {
+          "q": "What is an origination fee?",
+          "a": "It is an upfront charge some lenders take for processing the loan. It is often deducted from the funds you receive. You still repay the full loan amount, so the fee raises your true cost."
+        },
+        {
+          "q": "Do personal loans have fixed or variable rates?",
+          "a": "Most personal loans have a fixed rate and a fixed payment. Some lenders offer variable rates that can change over time. Read the loan terms before accepting an offer."
+        },
+        {
+          "q": "Will checking my personal loan rate affect my credit score?",
+          "a": "Many lenders offer prequalification with a soft credit check, which doesn't affect your score. A full application usually involves a hard inquiry. Ask the lender which type it uses before you apply."
+        }
+      ]
+    },
+    "how-much-personal-loan-can-i-afford": {
+      "intro": "This question suits people who know what they can repay each month and want to know how much that lets them borrow. Starting from the payment keeps the loan tied to your real budget. It also helps you avoid borrowing more than you need just because a lender would approve it.",
+      "tips": [
+        "Borrow only what the expense requires, even if the result is higher. A smaller loan at the same payment is paid off sooner.",
+        "If the lender deducts an origination fee, the cash you receive will be less than this result. Subtract the fee to see what you will actually have to spend.",
+        "Base the payment on what is left after essentials, not on the lender's maximum. Approval limits use debt-to-income ratios that don't see your other costs."
+      ],
+      "faq": [
+        {
+          "q": "How do lenders decide how much I can borrow?",
+          "a": "Lenders typically look at your credit, income and existing debt payments. Many compare total monthly debt to gross income, known as the debt-to-income ratio. The maximum they approve can differ from what your budget comfortably supports."
+        },
+        {
+          "q": "Is a longer term a good way to borrow more?",
+          "a": "A longer term raises the amount a fixed payment can cover. It also increases total interest and keeps you in debt longer. Compare the total cost at each term before deciding."
+        },
+        {
+          "q": "Are there limits on what a personal loan can be used for?",
+          "a": "Personal loans are usually flexible and can cover things like debt consolidation, repairs or medical bills. Some lenders restrict certain uses, such as school costs or investing. Check the lender's terms before applying."
+        }
+      ]
+    }
+  }
+}

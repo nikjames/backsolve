@@ -1,0 +1,183 @@
+{
+  "hub": {
+    "guide": "Most grade questions come down to a few moments in the term. You are heading into finals week, you are planning next semester, or you are trying to recover from a rough start. Each moment calls for a different number, and this section is built to give it to you.\n\n### Before the final exam\n\nThe most common question is what you need on the final to land a certain grade. Start with the question for the target grade you care about, whether that is an A, a B, or simply passing. If the required score looks impossible, that is useful too. It tells you to shift your study time toward another class where effort will move the needle more.\n\nYou can also run the problem forward. If you expect a certain score, you can see what your class grade would be. This helps when you are deciding whether to drop a class, take an incomplete, or switch to pass/fail before a deadline. If you don't know how much the final counts, check the syllabus first. If the syllabus is unclear, you can work out the weight from an old grade report.\n\n### Planning your GPA\n\nGPA questions usually come up when a scholarship, a program, or graduate school sets a minimum. The key fact is that your overall GPA is weighted by credit hours. The more credits you have already completed, the harder it is to move the average in one semester. One question tells you what GPA you need this term to hit a target. Another tells you how many credits of A's it would take. A third shows where your GPA lands after a semester you already expect.\n\n### Reading the results\n\nEvery answer here is an estimate based on the numbers you enter. Teachers sometimes curve grades, drop the lowest quiz, or round at the end. Schools handle retaken classes and plus or minus grades in different ways. Letter-grade cutoffs also vary by school and by instructor. Use the result to plan, then confirm the details with your syllabus, your instructor, or your registrar."
+  },
+  "pages": {
+    "what-do-i-need-on-my-final": {
+      "intro": "Students ask this in the last week of the term, when they know their current grade and the grade they want. Working backwards turns that vague goal into one concrete exam score. It tells you how hard to study and whether the goal is realistic at all.",
+      "tips": [
+        "Use the exact current grade from your online gradebook, not a rounded letter. A difference of one or two points can shift the required final score noticeably.",
+        "Run the calculator for two or three target grades. Seeing the score needed for an A, a B and a C helps you set a realistic goal.",
+        "If assignments are still ungraded or not yet due, enter a cautious current grade. That way the answer leaves room for a weaker homework score."
+      ],
+      "faq": [
+        {
+          "q": "What if the answer is over 100%?",
+          "a": "That means the target grade is out of reach with the final alone. Check whether any extra credit or late work is still available. Otherwise, try a lower target to see what is realistic."
+        },
+        {
+          "q": "Does this work if my final is replaced by a project?",
+          "a": "Yes, as long as the project is graded as a single item with a set weight. Enter the project's weight in place of the final. The math is the same for any last big assignment."
+        },
+        {
+          "q": "Should I trust the grade my online portal shows?",
+          "a": "Portals are usually close, but some don't apply category weights until the end. Ask your instructor if the displayed grade already reflects the syllabus weights. If it doesn't, your real current grade may differ."
+        }
+      ]
+    },
+    "what-will-my-class-grade-be": {
+      "intro": "Students ask this after a final, or while guessing how one might go. Plugging in an expected exam score shows where the class grade ends up before grades post. That helps with deadline decisions, like switching a class to pass/fail.",
+      "tips": [
+        "Plug in a low, middle and high estimate of your exam score. The range shows how much the final can really move your grade.",
+        "If your teacher posts exam scores before final grades, run the numbers as soon as you see yours. You will know where you stand days earlier.",
+        "Compare the result to your school's letter-grade cutoffs, which vary. A grade of 89.6% may or may not round up to an A."
+      ],
+      "faq": [
+        {
+          "q": "Will my teacher round my final grade up?",
+          "a": "Some instructors round and some don't. The syllabus often says how final grades are calculated. If it is silent, it is fair to ask your instructor directly."
+        },
+        {
+          "q": "Why is my calculated grade different from the one posted?",
+          "a": "Your instructor may drop a low score, curve the exam, or weight categories differently. Late changes to homework grades can also shift the result. Check your gradebook for any items that changed."
+        },
+        {
+          "q": "Can a bad final lower my grade a full letter?",
+          "a": "It can if the final carries a lot of weight. Try a low exam score in the calculator to see the worst case. A final worth 15% moves your grade far less than one worth 40%."
+        }
+      ]
+    },
+    "can-i-still-get-an-a": {
+      "intro": "This question comes up when your grade sits just below the A cutoff late in the term. The backwards answer gives you the exact final score an A requires. That makes it easier to decide whether the extra effort is worth it or a B is fine.",
+      "tips": [
+        "Check your school's cutoff for an A before you set the target. Some schools use 90%, others use 93% or 94% for a plain A.",
+        "If you need a near-perfect score, ask whether any bonus points remain. Even a small extra credit assignment can lower the score you need.",
+        "If the A looks out of reach, run the numbers for an A-minus too. Many schools give it nearly the same grade points."
+      ],
+      "faq": [
+        {
+          "q": "Is an A-minus worth the same as an A for GPA?",
+          "a": "Usually not. On many 4.0 scales an A-minus counts as 3.7 instead of 4.0. Your school's grading policy lists the exact values."
+        },
+        {
+          "q": "How realistic is scoring in the high 90s on a final?",
+          "a": "That depends on the class and how you did on earlier exams. Look at your past test scores in the same course. If you have never scored that high, plan for a backup target."
+        },
+        {
+          "q": "Should I ask my teacher about my chances?",
+          "a": "It is reasonable to ask, especially if you are close to the line. Bring your current grade and a specific question. Instructors can tell you about curves or bonus work you might not know about."
+        }
+      ]
+    },
+    "lowest-final-exam-score-to-pass": {
+      "intro": "Students ask this when a class has gone badly and the goal is simply to pass, often for a needed credit. Knowing the minimum score takes some panic out of exam week. It also shows whether passing is within reach or you need another plan.",
+      "tips": [
+        "Confirm what counts as passing for this class. Some majors require a C or better in core courses, even if a D technically passes.",
+        "If the minimum score is low, don't coast. Aim a margin above it in case the exam is harder than you expect.",
+        "If the minimum is very high, look into withdrawal deadlines now. A withdrawal may be better for your record than a failing grade."
+      ],
+      "faq": [
+        {
+          "q": "Is a D a passing grade?",
+          "a": "At many schools a D earns credit, but it may not count toward your major or a prerequisite. Check your program requirements or ask your advisor. The answer can differ from class to class."
+        },
+        {
+          "q": "What happens if I fail a class?",
+          "a": "Policies vary, but a failing grade often counts in your GPA until you retake the class. Some schools replace the old grade when you retake it. Your registrar or catalog explains the rules."
+        },
+        {
+          "q": "Can I still withdraw this late in the term?",
+          "a": "It depends on your school's academic calendar. Many schools have a withdrawal deadline before finals. Check with the registrar soon, since missing the date usually removes the option."
+        }
+      ]
+    },
+    "how-much-is-my-final-worth": {
+      "intro": "Some students lose the syllabus, and some teachers never state the weight clearly. If you know your grade before the final, your exam score and your class grade, you can work out the weight. That number helps you plan for the next exam in the same course.",
+      "tips": [
+        "Use a past exam in the same class to find the weight, then reuse it for the next one. Many instructors keep weights the same all term.",
+        "This only works when your exam score differs from your pre-final grade. If they are almost equal, the math can't tell the weight apart.",
+        "Use the grade before the final exactly as your gradebook showed it. Even small rounding errors can throw off the calculated weight."
+      ],
+      "faq": [
+        {
+          "q": "Where else can I find the final exam weight?",
+          "a": "The syllabus is the first place to look. Your course page or online gradebook may also list category weights. If neither does, ask your instructor or a teaching assistant."
+        },
+        {
+          "q": "Why does the weight come out as an odd number?",
+          "a": "Rounding, curves, or late grade changes can make the result look strange. Your gradebook may also drop a low score at the end. Treat the result as an approximation, not an official figure."
+        },
+        {
+          "q": "Is it normal for a final to be worth a lot?",
+          "a": "Weights vary widely across classes and schools. Some finals count for a small share and some count for most of the grade. The syllabus is the only reliable source for your class."
+        }
+      ]
+    },
+    "gpa-needed-this-semester": {
+      "intro": "Students ask this when a GPA target matters for a scholarship, academic standing, a major or graduate school. Working backwards from the goal tells you the semester GPA you need to get there. That makes the goal concrete enough to plan your course load around.",
+      "tips": [
+        "Count only credits that carry grades in your GPA. Pass/fail and transfer credits often don't count, so leave them out.",
+        "If the needed semester GPA is above 4.0, the goal can't be met this term. Set a closer target for now and plan to reach the full goal over two or more terms.",
+        "Check the exact cutoff your scholarship or program uses. A requirement of 3.0 may be checked before or after rounding."
+      ],
+      "faq": [
+        {
+          "q": "How do I find my exact credits completed?",
+          "a": "Your unofficial transcript or degree audit usually lists GPA hours separately. Use that number rather than total credits earned. The two can differ if you have transfer or pass/fail credits."
+        },
+        {
+          "q": "Can retaking a class raise my GPA faster?",
+          "a": "At schools that replace an old grade with the new one, a retake can help a lot. Policies differ on which grade counts and how many retakes are allowed. Ask your registrar how your school handles it."
+        },
+        {
+          "q": "What if I take fewer credits this semester?",
+          "a": "Fewer credits make each grade count less toward your overall GPA. You would need a higher semester GPA to reach the same target. Try different credit loads in the calculator to compare."
+        }
+      ]
+    },
+    "what-will-my-gpa-be": {
+      "intro": "Students ask this near the end of a semester, once they have a good sense of their grades. Seeing your new overall GPA early helps with scholarship renewals, honors cutoffs and job applications. It also shows how much one semester can actually move your average.",
+      "tips": [
+        "Build your semester GPA from expected letter grades and credit hours first. Then enter that semester GPA here for the overall picture.",
+        "Try a cautious and an optimistic semester GPA. The gap shows how much one or two grades really matter at your credit count.",
+        "If you are close to an honors or standing cutoff, look up how your school rounds. Some round to two decimals and some don't round."
+      ],
+      "faq": [
+        {
+          "q": "Why did my GPA barely change after a great semester?",
+          "a": "The more credits you have, the more weight your past grades carry. A strong semester moves a junior's GPA less than a freshman's. That is normal for a credit-weighted average."
+        },
+        {
+          "q": "Do plus and minus grades affect my GPA?",
+          "a": "At many schools they do, with values like 3.7 for an A-minus or 3.3 for a B-plus. Some schools ignore them. Your school's grading policy lists the values it uses."
+        },
+        {
+          "q": "Is my major GPA calculated the same way?",
+          "a": "The method is the same, but only classes in your major are included. Some programs use it for admission or graduation. Your degree audit may show it separately."
+        }
+      ]
+    },
+    "how-many-credits-to-raise-gpa": {
+      "intro": "Students ask this when their GPA is below a goal and they want to know how long recovery will take. Assuming strong grades and solving for credit hours turns a long-term goal into a number of classes. That helps you choose between one semester, a summer term or a full year.",
+      "tips": [
+        "Divide the credits by a typical class size, often three credits, to see how many courses that is. It makes the goal easier to picture.",
+        "Try a 3.5 instead of a 4.0 for a more realistic plan. The extra credits you would need show the cost of a few B's.",
+        "Summer or winter classes can add graded credits quickly. Check that your school counts them toward your GPA before you rely on them."
+      ],
+      "faq": [
+        {
+          "q": "What if the answer is more credits than I have left?",
+          "a": "Then the target may not be reachable before you graduate with new classes alone. Ask your registrar whether grade replacement for retaken classes is available. That can move your GPA faster than new credits."
+        },
+        {
+          "q": "Do classes at a community college raise my GPA?",
+          "a": "Often transfer credits count toward your degree but not your GPA. The rules vary by school. Check with your registrar before you enroll somewhere else to raise your GPA."
+        },
+        {
+          "q": "How long does it take to raise a GPA by a few tenths?",
+          "a": "It depends on how many credits you already have. Early in college a single strong semester can do it. Later on, it usually takes more terms, which the calculator will show."
+        }
+      ]
+    }
+  }
+}

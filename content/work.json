@@ -1,0 +1,183 @@
+{
+  "hub": {
+    "guide": "Pay questions tend to come up at turning points. You are weighing a job offer, setting rates for your first freelance client, or building a monthly budget. Each situation calls for a different number, and this section helps you find it by working backwards from what you want.\n\n### Comparing jobs and offers\n\nJob listings mix hourly wages and yearly salaries, which makes them hard to compare. The hourly and salary questions convert one into the other. A full-time year is 40 hours a week for 52 weeks, or 2,080 hours. Adjust the hours and weeks if a job has unpaid time off, seasonal work or regular overtime. Those changes can make two similar offers look quite different.\n\n### Budgeting around take-home pay\n\nThe salary on an offer letter is not what lands in your bank account. Federal and state income taxes, Social Security and Medicare all come out first. Retirement savings and health insurance often do too. The take-home questions estimate your monthly pay from a salary. They can also tell you what salary you need to cover a monthly budget. Because the site uses one combined tax rate, treat the answer as a planning estimate. A paycheck calculator or a tax professional can give you a closer figure.\n\n### Setting freelance rates\n\nFreelancers face a harder version of the same problem. You pay your own business costs and usually make quarterly estimated tax payments. You also pay self-employment tax, which covers Social Security and Medicare. Not every working hour is billable either, because admin, sales and revisions take time. The freelance questions let you start from the income you want and solve for your rate. They can also solve for the billable hours you need, the weeks off you can afford, or your likely take-home pay. Try a few combinations before quoting a client, since small changes in billable hours can shift your rate a lot."
+  },
+  "pages": {
+    "freelance-hourly-rate": {
+      "intro": "New freelancers ask this before their first quote, and experienced ones ask it before raising rates. Working backwards from the income you want, after costs and taxes, gives you a floor for your hourly rate. Quoting below it means you are paying for the work yourself.",
+      "tips": [
+        "List every yearly business cost before you start, including software, equipment, insurance and health coverage. Freelancers often forget costs an employer used to cover.",
+        "Be honest about billable hours. If you spend ten hours a week on admin and sales, leave them out of the billable number.",
+        "Treat the result as your minimum, not your price. Compare it with what others in your field charge before you set a final rate."
+      ],
+      "faq": [
+        {
+          "q": "What tax rate should a freelancer use?",
+          "a": "It depends on your income, your state and your deductions. Freelancers also owe self-employment tax on top of income tax. A tax professional can help you pick a realistic combined rate for planning."
+        },
+        {
+          "q": "Should I charge hourly or by the project?",
+          "a": "Many freelancers figure out an hourly rate first, then use it to price projects. Estimate the hours a project will take and multiply by your rate. Add a buffer for revisions and scope changes."
+        },
+        {
+          "q": "How often should I raise my rate?",
+          "a": "Many freelancers review rates once a year or when demand outpaces their time. Rerun the calculator when your costs or income goals change. Give existing clients notice before a rate change takes effect."
+        }
+      ]
+    },
+    "billable-hours-needed": {
+      "intro": "Freelancers ask this once they have a rate in mind and want to know if their schedule can support it. Solving for hours shows how much paid client work you need each week to hit your income goal. That tells you whether the plan fits your life or needs a higher rate.",
+      "tips": [
+        "Compare the result to your actual billed hours from the last few months. Your invoices show what you really manage, not what you hope to.",
+        "If the hours you need are close to a full work week, the plan likely won't hold. Admin, pitching and unpaid revisions still need time.",
+        "Try raising your rate in small steps and watch the hours drop. It shows how much a modest increase can free up your week."
+      ],
+      "faq": [
+        {
+          "q": "How many billable hours a week is realistic?",
+          "a": "It varies by field and by how much time you spend finding work. Many freelancers bill well under 40 hours even when working full time. Track your time for a few weeks to find your own number."
+        },
+        {
+          "q": "Do non-billable tasks count as work time?",
+          "a": "Yes, they take real time, but clients don't pay for them directly. That is why billable hours are lower than hours worked. Your rate has to cover that unpaid time."
+        },
+        {
+          "q": "What if I can't find enough clients to fill the hours?",
+          "a": "Then you may need to raise your rate, lower costs, or adjust your income goal. Rerun the calculator with the hours you can reliably book. It shows what rate would make that schedule work."
+        }
+      ]
+    },
+    "freelance-take-home": {
+      "intro": "Freelancers ask this when a client accepts a rate and they want to know what it really pays. It also helps when weighing freelance work against a salaried offer. Seeing what is left after costs and taxes gives you an honest number to compare against a paycheck.",
+      "tips": [
+        "Use your real tax rate from last year's return if you have one. It will give a closer estimate than a guess.",
+        "When comparing with a salaried job, remember benefits. An employer may pay for health coverage, retirement matching and paid time off.",
+        "Set aside money for quarterly estimated taxes from each payment. Moving it to a separate account helps avoid a surprise bill."
+      ],
+      "faq": [
+        {
+          "q": "How does freelance take-home compare to a salary?",
+          "a": "A salaried worker's employer pays half of Social Security and Medicare and often covers benefits. As a freelancer, you pay those costs yourself. Include them in your business costs to make a fair comparison."
+        },
+        {
+          "q": "Why is my take-home lower than my rate times hours?",
+          "a": "Business costs and taxes come out before you keep anything. The weeks you take off also reduce your yearly billing. The calculator accounts for all three."
+        },
+        {
+          "q": "Do I need to pay estimated taxes every quarter?",
+          "a": "Most freelancers who expect to owe tax make quarterly estimated payments to the IRS. Your state may require them too. A tax professional can help you set the amounts."
+        }
+      ]
+    },
+    "how-many-weeks-off-freelancer": {
+      "intro": "Freelancers ask this when planning vacations, holidays or a slower season, since every week away is a week without billing. Solving for working weeks shows how much time off you can take and still hit your income goal. It turns time off into a planned budget item.",
+      "tips": [
+        "Count holidays and sick days as weeks off too, not just vacation. A few scattered days add up across a year.",
+        "If the result leaves few weeks off, try a slightly higher rate. Even a small raise can buy back a week or two.",
+        "Build up a cash cushion before a long break. Clients often pay weeks after you invoice, so income can lag your time off."
+      ],
+      "faq": [
+        {
+          "q": "How many weeks off do freelancers usually take?",
+          "a": "It varies widely by person and field. Some take a few weeks, others plan for much more. Use the calculator to see what your own rate and goals allow."
+        },
+        {
+          "q": "Should I count slow weeks as time off?",
+          "a": "If you tend to have weeks with little paid work, it is safer to count them. That keeps your plan realistic. You can always enjoy the extra income if work stays steady."
+        },
+        {
+          "q": "Can I take a long break and still meet my goal?",
+          "a": "Yes, if your rate and weekly hours are high enough. Enter your target and see how many weeks you need to work. The rest of the year is available for time off."
+        }
+      ]
+    },
+    "hourly-to-salary": {
+      "intro": "People ask this when comparing an hourly job to a salaried one, or when filling out a loan or rental application. Converting hourly pay to a yearly figure puts different job listings side by side. It also gives you a starting point for a yearly budget.",
+      "tips": [
+        "Change the paid weeks if you don't get paid time off. Two unpaid weeks a year lowers your yearly pay noticeably.",
+        "If you work regular overtime, run it as a separate calculation. Overtime is often paid at a higher rate, so it doesn't fit simple hours.",
+        "Remember the result is before taxes. Use a take-home pay question next to see what you would actually keep."
+      ],
+      "faq": [
+        {
+          "q": "Is $25 an hour a good wage?",
+          "a": "It depends on where you live and your expenses. Living costs vary a lot between cities and states. Compare the yearly figure to your budget and to local job listings."
+        },
+        {
+          "q": "How many work hours are in a year?",
+          "a": "A standard full-time year is 2,080 hours, which is 40 hours for 52 weeks. Your actual paid hours may be lower if you take unpaid time off. Part-time schedules are lower still."
+        },
+        {
+          "q": "Does an hourly job come with benefits?",
+          "a": "Some do and some don't, depending on the employer and your hours. Benefits like health insurance and retirement matching add real value. Ask about them when you compare offers."
+        }
+      ]
+    },
+    "salary-to-hourly": {
+      "intro": "People ask this when weighing a salaried offer against hourly work, or wondering if a raise is worth longer hours. A yearly salary can hide how much you earn for each hour you work. Converting it makes jobs with different schedules, or a side gig, easier to compare.",
+      "tips": [
+        "Enter the hours you actually work, not the hours in the job description. A 50-hour week makes a salary worth less per hour.",
+        "Use this to compare a salaried role to freelance rates. Keep in mind freelancers pay their own taxes and benefits.",
+        "If you get an annual bonus you can count on, add it to the salary. It gives a fairer view of your hourly pay."
+      ],
+      "faq": [
+        {
+          "q": "Do salaried employees get overtime?",
+          "a": "Some do and some don't, depending on the job and federal and state rules. Your employer should tell you whether your role is exempt. The U.S. Department of Labor explains the general rules."
+        },
+        {
+          "q": "Why does my hourly rate drop when I work more?",
+          "a": "A salary stays the same no matter how many hours you put in. More hours spread the same pay thinner. That is why tracking real hours matters."
+        },
+        {
+          "q": "Should I count paid holidays in my weeks?",
+          "a": "Yes, if you are paid for them. Paid time off is still paid weeks. Use 52 weeks if your salary covers vacation and holidays."
+        }
+      ]
+    },
+    "monthly-take-home-pay": {
+      "intro": "People ask this after a job offer or a raise, or when they start planning a budget. A salary sounds large, but taxes come out before you see it. Estimating monthly take-home pay shows what you can really spend on rent, a car payment and savings.",
+      "tips": [
+        "Add your retirement and health insurance contributions to the tax rate. That gives a closer figure to your actual paycheck.",
+        "If you are paid every two weeks, some months will have three paychecks. Budget on the regular two-paycheck months.",
+        "Compare the estimate to your first real paycheck. Adjust the tax rate here so future estimates match your actual pay."
+      ],
+      "faq": [
+        {
+          "q": "Why is my paycheck smaller than this estimate?",
+          "a": "Pre-tax deductions like retirement, health insurance and other benefits can lower it. Your withholding choices on your W-4 also matter. Add those deductions to the rate for a closer match."
+        },
+        {
+          "q": "Does where I live change my take-home pay?",
+          "a": "Yes. Some states and cities have income taxes and some don't. Moving can change your take-home pay even at the same salary."
+        },
+        {
+          "q": "How can I find my real combined tax rate?",
+          "a": "Divide the total taxes on a recent pay stub by your gross pay for that period. That gives your effective rate per paycheck. A tax professional can help if your situation is complex."
+        }
+      ]
+    },
+    "salary-for-take-home-pay": {
+      "intro": "People ask this when they know their monthly expenses and want the salary that covers them. It comes up during job searches, salary negotiations and moves to a new city. Starting from what you need each month gives you a clear minimum to bring to a negotiation.",
+      "tips": [
+        "Build your monthly number from a real budget, including savings. Leaving savings out makes the salary target too low.",
+        "Use a slightly higher tax rate if you are moving to a state with income tax. Moving can change your take-home pay noticeably.",
+        "Treat the result as a minimum when negotiating. Ask for a bit more to cover raises in rent or other costs."
+      ],
+      "faq": [
+        {
+          "q": "How do I use this in a salary negotiation?",
+          "a": "Know your minimum before you talk numbers. It keeps you from accepting an offer that won't cover your costs. Research typical pay for the role to set a target above it."
+        },
+        {
+          "q": "Should I include my partner's income?",
+          "a": "This calculator looks at one salary. If you share expenses, enter only your share of the monthly budget. Combined household taxes can be more complex, so a tax professional can help."
+        },
+        {
+          "q": "What if the salary I need is above typical pay for my role?",
+          "a": "You may need to cut costs, add a side income, or look at higher-paying roles. Try lowering your monthly target to see what is realistic. Small budget changes can lower the salary you need."
+        }
+      ]
+    }
+  }
+}

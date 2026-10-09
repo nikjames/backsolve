@@ -1,0 +1,72 @@
+{
+  "hub": {
+    "guide": "Debt payoff comes down to two numbers you control: how much you pay each month and how long you keep paying. The interest rate sets the price of every month you wait. Backsolve lets you start from whichever number you already know and solve for the other.\n\n### When you know your payment\n\nMost people start here. You can afford a certain amount each month and want to know when the balance hits zero. The credit card payoff question answers that and shows the total interest along the way. The student loan question does the same for larger, lower-rate balances that run for years. If the interest total surprises you, the interest question helps you see how much a bigger payment saves.\n\n### When you have a deadline\n\nSometimes the date matters more than the payment. You might want a card cleared before a wedding, a move or a new job. The debt-free in 2 years question and the $5,000 in a year question work backwards from that deadline. They tell you the monthly payment that gets you there. Try a few deadlines to see where the payment stops fitting your budget.\n\n### Choosing what to pay first\n\nWith several debts, you also need an order. The avalanche method sends extra money to the highest rate first and usually costs the least interest. The snowball method clears the smallest balance first, which some people find easier to stick with. Both work only if you stop adding new charges. Run each debt through the calculator to see how long each one takes on its own.\n\nPaying only the minimum can stretch a payoff out for years. Paying even a little more each month can cut that time sharply. A balance transfer card can lower your rate for a while, but these cards often charge a transfer fee. Include that fee in the balance you enter.\n\nIf the numbers feel out of reach, a nonprofit credit counselor can review your situation, often at little or no cost. They can explain options such as a debt management plan."
+  },
+  "pages": {
+    "how-long-to-pay-off-credit-card": {
+      "intro": "People ask this when they look at a card statement and wonder whether their usual payment is making real progress. It often comes up after a big purchase, a holiday season or a rate increase. Knowing the payoff date turns a vague balance into a finish line and shows whether your current payment is enough to reach it.",
+      "tips": [
+        "Enter the payment you can make every month, not your best month. A realistic number gives a payoff date you can actually hit.",
+        "Run the calculator a second time with $50 or $100 more per month. Comparing the two dates shows how much time a small increase buys.",
+        "If you keep using the card, the date shown is a best case. Some people move everyday spending to debit or cash while paying a card down."
+      ],
+      "faq": [
+        {"q": "Why does my statement show a different payoff time?", "a": "Card statements usually show how long payoff takes if you pay only the minimum. Minimum payments often shrink as the balance falls, which stretches payoff much longer. Backsolve uses the fixed payment you enter, so its date is usually sooner."},
+        {"q": "What if my payment doesn't cover the interest?", "a": "Then the balance stays the same or grows, and the card is never paid off. Backsolve flags this case instead of showing a date. You would need a larger payment, a lower rate, or both to make progress."},
+        {"q": "Does paying twice a month help?", "a": "Card interest is usually figured on your average daily balance. Paying part of your payment earlier in the month lowers that average a little. The effect is modest, but it can trim some interest over a long payoff."}
+      ]
+    },
+    "payment-to-be-debt-free-in-2-years": {
+      "intro": "This question comes from people who have picked a target date and want a monthly number to plan around. Two years is a common goal because it feels close without crushing the budget. Working backwards from the deadline gives you a payment you can set up as an automatic transfer, so the plan runs without daily decisions.",
+      "tips": [
+        "Schedule an automatic payment for the exact amount shown, set for just after payday. That keeps the plan on track even in busy months.",
+        "If the payment is too high, try 30 or 36 months to find one that fits. A plan you can keep beats a faster one you abandon.",
+        "For several cards, run each one with its own rate and a 24-month term. Adding those payments together gives you a combined monthly target."
+      ],
+      "faq": [
+        {"q": "What happens if I miss a month?", "a": "Interest keeps building while the balance sits there. To stay on the two-year schedule, you would need to pay a bit more in later months. Rerun the calculator with the new balance and the months left to get the updated payment."},
+        {"q": "Is it better to pick a shorter goal?", "a": "A shorter goal means a higher payment but less total interest. A longer one costs more interest but leaves more room in your budget. Many people pick the shortest goal that still leaves a cushion for surprises."},
+        {"q": "Would a balance transfer change the payment?", "a": "A lower rate means more of each payment goes to the balance, so the required payment drops. Many balance transfer cards charge a fee that is added to the balance. Enter the new balance with the fee and the promotional rate, and note when that rate ends."}
+      ]
+    },
+    "credit-card-interest-total": {
+      "intro": "People search this when they want the real cost of carrying a balance, not just the monthly payment. It often comes up when deciding between paying down a card and spending the money elsewhere. Seeing the interest as one dollar figure makes the trade-off concrete and shows what a faster payoff would save.",
+      "tips": [
+        "Compare the interest total at your current payment with the total at a payment $100 higher. The difference is money you keep by paying faster.",
+        "Check your statement for separate rates on purchases, cash advances and balance transfers. Run each balance at its own rate for a more accurate total.",
+        "Write the interest figure down and check it again after a few months of payments. Watching it shrink can help you stay motivated."
+      ],
+      "faq": [
+        {"q": "Why is so much of my payment going to interest?", "a": "Interest is charged on the balance, so it is highest when the balance is largest. Early payments mostly cover interest, and later ones mostly reduce the balance. Paying more early on speeds up that shift."},
+        {"q": "Is credit card interest tax deductible?", "a": "Interest on personal credit card debt is generally not deductible on a US federal return. Interest on business card debt can be treated differently. A tax professional can confirm what applies to you."},
+        {"q": "Can I ask my card issuer for a lower rate?", "a": "You can call and ask, and some issuers agree, especially for customers who pay on time. There is no guarantee. If they lower it, rerun the calculator with the new rate to see the savings."}
+      ]
+    },
+    "pay-off-5000-in-a-year": {
+      "intro": "This one is for people with a specific balance and a one-year goal. The goal is often set at New Year or before a big life change. A year is short, so the payment runs high and the number works as a reality check. Solving for the payment shows right away whether the goal fits your budget or needs adjusting.",
+      "tips": [
+        "Look for one-time money to cover part of it, like a tax refund or bonus. Enter the smaller balance to see how much the monthly payment drops.",
+        "If your balance isn't exactly $5,000, type in the real figure. Over a short term, even a few hundred dollars changes the payment noticeably.",
+        "Compare the payment with what you spend on one or two flexible categories, like dining out. Trimming one of them may cover much of the gap."
+      ],
+      "faq": [
+        {"q": "How much interest will I pay on $5,000 over a year?", "a": "It depends on your rate, but a one-year payoff keeps interest fairly low. Multiply the payment shown by 12, then subtract the balance, to get the interest. Stretching the same debt over several years would cost much more."},
+        {"q": "What if I can only afford part of that payment?", "a": "Enter the payment you can afford in the time-to-pay-off question instead. It shows how many months the balance will actually take. You can still add extra whenever you have it."},
+        {"q": "Should I use savings to pay it off faster?", "a": "Many people keep some emergency savings before putting everything toward debt. Without a cushion, a surprise expense can end up back on the card. A nonprofit credit counselor can help you weigh the two for your situation."}
+      ]
+    },
+    "how-long-to-pay-off-student-loans": {
+      "intro": "Graduates and parents ask this when repayment starts or when they wonder whether extra payments are worth it. Student loans tend to have larger balances and lower rates than credit cards, so payoff runs for years. Seeing the end date and total interest helps you decide whether to pay ahead or stick with the standard schedule.",
+      "tips": [
+        "If you have several loans at different rates, enter each one separately. Your loan servicer's website lists the balance and rate for each loan.",
+        "When you pay extra, ask your servicer to apply it to principal on the highest-rate loan. Otherwise it may be treated as an early payment of next month's bill.",
+        "Enter the payment your servicer actually bills, not a rounded number. Then do a second run with any extra you plan, to see the difference in years."
+      ],
+      "faq": [
+        {"q": "Does this work for income-driven repayment plans?", "a": "Not exactly. Income-driven payments change with your income, and this calculator assumes a fixed payment. You can still enter your current payment for a rough picture and rerun it after each recertification."},
+        {"q": "Should I pay off student loans or invest first?", "a": "It depends on your loan rates, your other goals and how comfortable you are with risk. Some people compare the loan rate with what they expect from investing. A nonprofit credit counselor or a fee-only planner can help you think it through."},
+        {"q": "Why does payoff take longer than my original loan term?", "a": "If your payment is lower than the original schedule, perhaps after a plan change, payoff stretches out. Unpaid interest from a deferment or forbearance may also have been added to the balance. Get your current balance from your servicer and enter it here."}
+      ]
+    }
+  }
+}

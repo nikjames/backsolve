@@ -1,0 +1,271 @@
+{
+  "hub": {
+    "guide": "Saving money comes down to three numbers: how much you put away, how long you leave it, and what it earns. Most savings questions fix two of those and ask about the third. Backsolve lets you start from the number you care about and work backwards.\n\n### Setting a goal and a monthly amount\n\nIf you have a target and a deadline, the question is how much to set aside each month. That covers a general savings goal, a house down payment, or a retirement number like $1 million. If your budget sets the monthly amount, flip it around. Ask how long it will take to reach $10,000, or what $500 a month grows to over several years. Running both directions shows whether to save more, wait longer or lower the target.\n\n### Choosing where the money sits\n\nThe rate you earn matters more over long stretches. For short goals, savings accounts and CDs keep your money steady, and bank deposits are FDIC insured up to the legal limit. CDs usually pay a fixed rate but charge a penalty if you withdraw early. You can check what a CD will earn before you lock money away. You can also find the rate you would need to hit a goal on time. The rule of 72 gives a quick sense of how long money takes to double.\n\n### Planning for retirement\n\nRetirement questions work on a longer scale. A common starting point is the 4% rule, which links your yearly spending to the savings you need. You can work it forward from spending, or backward from a balance you already have. The savings calculator then shows when you might reach that number at your current pace. Investment returns vary from year to year, so treat any result as an estimate. Revisit it as your income and plans change.\n\nBefore chasing long-term goals, many people first build an emergency fund of three to six months of expenses. That cushion means a surprise bill does not force you to pull money meant for later. A financial professional can help you weigh these goals against each other."
+  },
+  "pages": {
+    "how-much-to-save-each-month": {
+      "intro": "People ask this when they have a target in mind, like a car or a wedding, and a date to reach it. Starting from the goal and working backwards turns a vague wish into one monthly number. You can then check it against your budget and adjust the goal or timeline before you commit.",
+      "tips": [
+        "Set up an automatic transfer for the result on the day after payday. Money that moves before you see it in checking is easier to leave alone.",
+        "If the monthly amount feels too high, try adding a year to the timeline before cutting the goal. A longer runway often brings the number within reach.",
+        "Round the answer up to the next $25 or $50. The extra covers months when the rate dips or you skip a deposit."
+      ],
+      "faq": [
+        {
+          "q": "What if I can't afford the monthly amount?",
+          "a": "You have three levers: a longer timeline, a smaller goal or a bigger starting balance. Change one input at a time and watch how the monthly figure moves. Saving part of the amount still gets you closer than waiting."
+        },
+        {
+          "q": "Should I count interest when planning short-term savings?",
+          "a": "Interest helps, but over a year or two it adds only a little. Savings account rates can also change without notice. Some people enter 0% to see a worst-case number."
+        },
+        {
+          "q": "Does it matter if I save weekly instead of monthly?",
+          "a": "The total you set aside matters far more than the schedule. Weekly deposits can earn slightly more interest because money goes in sooner. For a weekly figure, multiply the monthly result by 12 and divide by 52."
+        }
+      ]
+    },
+    "how-long-to-save-10000": {
+      "intro": "Ten thousand dollars is a common first milestone, often for an emergency fund, a used car or a fresh start after paying off debt. If you already know what you can set aside each month, the useful question is when you'll get there. Seeing a date makes it easier to stay motivated and plan around it.",
+      "tips": [
+        "Try the calculator with your amount plus $50 and plus $100. Small increases can cut months off the timeline, and the difference is easy to see side by side.",
+        "Put windfalls like a tax refund or bonus into the \"Saved so far\" box. A lump sum early on shortens the wait more than the same amount added later.",
+        "Mark the projected finish date on your calendar and compare your balance to it every quarter. If you fall behind, you'll know early enough to adjust."
+      ],
+      "faq": [
+        {
+          "q": "Where should I keep money I'm saving toward $10,000?",
+          "a": "Many people use a high-yield savings account at a bank or credit union. Deposits are FDIC or NCUA insured up to the limit, and you can withdraw when needed. Keeping it apart from checking makes it harder to spend by accident."
+        },
+        {
+          "q": "How much do I need to save each month to hit $10,000 in one year?",
+          "a": "Without interest, it takes about $834 a month. Interest lowers that only slightly over a single year. The monthly savings question on this site gives the exact figure for your rate."
+        },
+        {
+          "q": "Is $10,000 enough for an emergency fund?",
+          "a": "It depends on your expenses. The usual guidance is three to six months of essential costs. For some households $10,000 covers that, and for others it is only a start."
+        }
+      ]
+    },
+    "saving-500-a-month": {
+      "intro": "This question usually comes from someone who has found $500 in their budget and wants to know if it's worth it. Seeing the total at the end makes a monthly habit feel concrete. It also shows how much of the final balance comes from interest rather than your own deposits.",
+      "tips": [
+        "Compare a 5-year and a 10-year result. Interest makes up a larger share of the balance the longer you leave the money alone.",
+        "If $500 is a stretch, run $250 too. Knowing what half the amount builds can help you start now instead of waiting for a perfect budget.",
+        "Split the $500 across goals if you have more than one. For example, send part to an emergency fund and part to a longer-term account, and track each separately."
+      ],
+      "faq": [
+        {
+          "q": "How much is $500 a month over a year?",
+          "a": "Your deposits alone add up to $6,000 a year. Interest adds a bit more, depending on the rate. Over several years the interest portion grows faster, because earlier interest earns interest too."
+        },
+        {
+          "q": "Should I put $500 a month in savings or invest it?",
+          "a": "It depends on when you need the money and how much risk you can accept. Money needed within a few years is often kept in savings. A financial professional can help with longer-term choices."
+        },
+        {
+          "q": "What interest rate should I enter?",
+          "a": "For a savings account, use the account's current APY. Investments have no fixed rate, so try a few conservative numbers. Running a low case and a high case gives you a range instead of a single guess."
+        }
+      ]
+    },
+    "saving-for-a-down-payment": {
+      "intro": "Future homebuyers ask this once they have a price range and a rough move-in date. Working backwards from the down payment tells you what to set aside each month to be ready on time. It also shows whether your timeline is realistic or whether a smaller home or a longer wait makes more sense.",
+      "tips": [
+        "Add closing costs to your goal amount, not just the down payment. Lenders and title companies charge fees at closing, and a local lender can estimate them.",
+        "Keep down payment money somewhere stable, like a savings account or CDs timed to your purchase date. A market drop right before closing could push your plans back.",
+        "Ask lenders about down payment assistance programs in your state or city. Any help you qualify for lowers the amount you need to save."
+      ],
+      "faq": [
+        {
+          "q": "How much down payment do I need for a house?",
+          "a": "It depends on the loan type and the lender. Some loans allow small down payments. Putting 20% down on a conventional loan typically avoids private mortgage insurance. A lender can tell you what applies to you."
+        },
+        {
+          "q": "Can I use retirement savings for a down payment?",
+          "a": "Some retirement accounts allow withdrawals or loans for a first home, but rules, taxes and penalties vary. Taking money out also slows your retirement growth. Talk with a tax or financial professional first."
+        },
+        {
+          "q": "Should I keep saving after I reach my down payment goal?",
+          "a": "Many buyers keep saving for moving costs, repairs and an emergency fund. New homeowners often face surprise expenses in the first year. Having cash left after closing gives you room to handle them."
+        }
+      ]
+    },
+    "interest-rate-to-reach-goal": {
+      "intro": "People ask this when they know their monthly budget and deadline but wonder if their money could work harder. Solving for the rate shows what return your plan depends on. If that number is higher than safe accounts pay, you know to save more or allow more time rather than hope.",
+      "tips": [
+        "Compare the result with what your bank or credit union pays right now. If the required rate is well above it, change the deposit or the deadline instead.",
+        "A required rate near 0% means your deposits alone almost get you there. In that case, pick the safest place for the money rather than chasing yield.",
+        "Treat any required rate above what insured accounts pay as a sign of added risk. Higher returns usually come with the chance of losing value along the way."
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between APY and APR?",
+          "a": "APY includes the effect of compounding over a year, so it shows what you actually earn. APR is a simple yearly rate without compounding. Savings accounts and CDs usually advertise APY."
+        },
+        {
+          "q": "Can I count on stock market returns to reach my goal?",
+          "a": "Stock returns vary widely from year to year and can be negative. Long-term averages don't guarantee results over a short window. For goals a few years away, many people plan with a lower, steadier rate."
+        },
+        {
+          "q": "Does the rate on a savings account change over time?",
+          "a": "Yes. Most savings and money market accounts have variable rates the bank can change. CDs lock in a rate for the full term. Recheck your plan whenever your rate moves."
+        }
+      ]
+    },
+    "how-long-to-build-an-emergency-fund": {
+      "intro": "This comes up after someone decides how big their safety net should be and wants to know when it will be finished. Knowing the timeline helps you decide whether to pause other goals or extra debt payments until the fund is in place. It also turns a large target into a date you can track.",
+      "tips": [
+        "Build the fund in stages. Aim first for one month of expenses, then three, so you have some protection while the full amount grows.",
+        "Keep the fund in a separate account from your everyday checking. Using a different bank adds just enough friction to stop casual spending.",
+        "If you dip into the fund, rerun the calculator with your new balance. Seeing the updated finish date makes it easier to refill."
+      ],
+      "faq": [
+        {
+          "q": "Should I build an emergency fund or pay off debt first?",
+          "a": "Many people save a small starter fund first, then focus on high-interest debt. Without any cushion, a surprise bill can push you back into debt. Once the debt is gone, they finish the full fund."
+        },
+        {
+          "q": "Where should I keep my emergency fund?",
+          "a": "It should be safe and reachable within a day or two. A savings or money market account at an FDIC-insured bank is a common choice. Avoid investments that could lose value right when you need them."
+        },
+        {
+          "q": "Does interest make a big difference for an emergency fund?",
+          "a": "Not much in the early stage, since your deposits do most of the work. Interest matters more once the fund is full and sits for years. A decent rate still helps it keep pace with rising costs."
+        }
+      ]
+    },
+    "how-much-do-i-need-to-retire": {
+      "intro": "People ask this when retirement starts to feel real, often in their 30s or 40s, and they want a target to aim for. Starting from what you expect to spend each year gives you a single savings number. That number becomes the goal you can plug into a monthly savings plan.",
+      "tips": [
+        "Base your yearly spending on your current budget, minus costs that will end, such as a mortgage or commuting. Then add costs that may rise, like health care and travel.",
+        "Subtract expected income from Social Security or a pension before you enter your spending. Your savings only need to cover the gap.",
+        "Run the calculator at 3.5% as well as 4%. The difference between the two answers shows how much more a cautious plan needs."
+      ],
+      "faq": [
+        {
+          "q": "Does the 4% rule still work?",
+          "a": "It's a rule of thumb based on historical U.S. market data, not a guarantee. Some planners use a lower rate for longer retirements or uncertain markets. It works best as a starting point for a talk with a financial professional."
+        },
+        {
+          "q": "Should I count Social Security in my retirement number?",
+          "a": "In most cases, yes. You can see your estimated benefit in your Social Security account at ssa.gov. Subtract it from your yearly spending so your target reflects only what your savings must cover."
+        },
+        {
+          "q": "Do taxes affect how much I need?",
+          "a": "They can. Withdrawals from traditional retirement accounts are usually taxed as income, while qualified Roth withdrawals are not. If most of your savings is pre-tax, plan to spend a bit more to cover taxes."
+        }
+      ]
+    },
+    "how-much-can-i-spend-in-retirement": {
+      "intro": "This is the question for people who are near retirement or already there and know roughly what they have saved. Working from the balance tells you how much yearly spending your savings can likely support. You can compare that figure with your budget and see whether you are ready or need more time.",
+      "tips": [
+        "Add Social Security, pension or annuity income on top of the result to see your full yearly budget. The calculator only covers what your savings provide.",
+        "Treat the answer as your first-year spending. Under the 4% approach, later years rise with inflation rather than being recalculated from your balance.",
+        "Plan for uneven spending. Many retirees spend more on travel early and more on health care later, so leave some flexibility in the budget."
+      ],
+      "faq": [
+        {
+          "q": "What happens if the market drops early in retirement?",
+          "a": "Losses in the first few years can hurt more than later ones, because you are withdrawing at the same time. Some retirees trim spending for a year or keep a cash reserve to avoid selling low. A financial professional can help you plan for this."
+        },
+        {
+          "q": "Can I spend more than 4% a year?",
+          "a": "You can, but it raises the chance of running short if you live a long time. A shorter retirement or other income sources may make a higher rate reasonable. Try different rates in the calculator to see the tradeoff."
+        },
+        {
+          "q": "Should I withdraw from taxable or retirement accounts first?",
+          "a": "The order can affect your tax bill and how long your money lasts. There is no single right answer for everyone. A tax professional or financial planner can model the options for your accounts."
+        }
+      ]
+    },
+    "when-can-i-retire": {
+      "intro": "Most people ask this in mid-career, when they have some savings and a retirement number but no clear date. Solving for time shows how many years it will take at your current pace. If the answer feels too far away, you can see how much a bigger monthly deposit brings the date closer.",
+      "tips": [
+        "Find your goal amount first with the retirement number question, then enter it here. The two steps together give you a date grounded in your expected spending.",
+        "Include any employer match in your monthly amount. The match goes into your account each month, even though it doesn't come out of your paycheck.",
+        "Use a modest return rather than your best year's results. A cautious rate gives you a date you are more likely to hit."
+      ],
+      "faq": [
+        {
+          "q": "What age can I start Social Security?",
+          "a": "You can claim as early as 62, but your monthly benefit is smaller if you start before full retirement age. Waiting past full retirement age, up to 70, increases it. Your own estimates are in your account at ssa.gov."
+        },
+        {
+          "q": "How does health insurance work if I retire before Medicare?",
+          "a": "Medicare generally starts at 65. Early retirees often use a spouse's plan, COBRA or a marketplace plan until then. Add those premiums to your retirement budget."
+        },
+        {
+          "q": "Should I count my home equity toward retirement?",
+          "a": "Many people leave it out, since they still need a place to live. Downsizing could free up money later, but the timing is hard to predict. It's often safer to treat home equity as a backup."
+        }
+      ]
+    },
+    "save-for-1-million": {
+      "intro": "A million dollars is a round number many people use as a retirement target. This question suits someone who has a timeline in mind and wants to know the monthly effort it takes. Seeing the figure helps you decide whether to start now, save more later or aim for a different number.",
+      "tips": [
+        "Run the calculator with 20, 30 and 40 years to see how much starting earlier lowers the monthly amount. Time does much of the work in long-term saving.",
+        "Check whether $1 million fits your plans using the retirement number question. Your real target could be higher or lower depending on your spending.",
+        "Count contributions to every retirement account, including workplace plans and IRAs. Check this year's contribution limits so you know how much each account can take."
+      ],
+      "faq": [
+        {
+          "q": "Is $1 million enough to retire?",
+          "a": "Under the 4% rule of thumb, $1 million supports about $40,000 a year of spending. Add Social Security or a pension and that may be enough for some people. Others will need more, depending on lifestyle and location."
+        },
+        {
+          "q": "How does inflation affect a $1 million goal?",
+          "a": "A million dollars 30 years from now will buy less than it does today. One approach is to enter your expected return minus expected inflation. The result is then roughly in today's dollars."
+        },
+        {
+          "q": "What return rate should I use for a long-term plan?",
+          "a": "No one can promise a return over decades. Many people test a range, such as one cautious rate and one moderate rate. A financial professional can suggest assumptions that fit your investments."
+        }
+      ]
+    },
+    "how-long-to-double-my-money": {
+      "intro": "This question appeals to anyone with a lump sum, from a savings balance to an inheritance, who wants a feel for growth. Knowing the doubling time makes it easy to compare accounts and rates. It also shows how much difference a single percentage point makes over the years.",
+      "tips": [
+        "Use the rule of 72 as a quick check. Divide 72 by the yearly rate, and the result is roughly the number of years to double.",
+        "Try the same balance at two rates one point apart. The gap in years shows why small rate differences matter over long periods.",
+        "Taxes on interest slow growth in a taxable account. After tax, your money may take longer to double than the calculator shows."
+      ],
+      "faq": [
+        {
+          "q": "How accurate is the rule of 72?",
+          "a": "It's a close estimate for typical rates, roughly 4% to 12%. At 5%, it gives 14.4 years, which is close to the calculator's result. It's best for quick mental math."
+        },
+        {
+          "q": "Does inflation affect doubling time?",
+          "a": "Yes. If prices rise while your money grows, your buying power doubles more slowly. Subtract an expected inflation rate from your return to estimate the real doubling time."
+        },
+        {
+          "q": "Can adding money each month help me double faster?",
+          "a": "Yes, though then the growth isn't only from returns. Deposits raise the balance directly. Enter a monthly amount to see how much sooner you reach twice your starting balance."
+        }
+      ]
+    },
+    "how-much-will-a-cd-earn": {
+      "intro": "People ask this when they are comparing CD offers or deciding whether to lock up cash for a set term. Knowing the dollar amount at maturity makes it easier to weigh a CD against a savings account. It also helps you judge whether the extra interest is worth giving up access to the money.",
+      "tips": [
+        "Enter the term in months to match the CD exactly. Banks offer terms like 6, 12 and 18 months, and the result changes with each.",
+        "Read the early withdrawal penalty before you open a CD. It's often a set number of months of interest, which can wipe out the gain on a short term.",
+        "Consider a CD ladder, which spreads money across several terms. Part of your balance comes free at regular intervals, so you're less likely to need an early withdrawal."
+      ],
+      "faq": [
+        {
+          "q": "Is money in a CD insured?",
+          "a": "CDs at FDIC-insured banks are covered up to the insurance limit per depositor, per bank, per ownership category. Credit union certificates have similar NCUA coverage. Confirm the institution's status before you deposit."
+        },
+        {
+          "q": "Is CD interest taxable?",
+          "a": "Yes. CD interest is generally taxed as ordinary income in the year it's earned, even if you don't withdraw it. Your bank may send a 1099-INT form showing the amount."
+        },
+        {
+          "q": "What happens when my CD matures?",
+          "a": "Banks usually give a short grace period to withdraw or move the money. If you do nothing, many CDs renew automatically at the current rate for a similar term. Set a reminder so you can compare offers first."
+        }
+      ]
+    }
+  }
+}

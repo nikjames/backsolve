@@ -1,0 +1,117 @@
+{
+  "hub": {
+    "guide": "Everyday money decisions are smaller than retirement plans, but they come up far more often. Should you take the road trip? Can you afford that new laptop now, or in a few months? Is your safety net big enough? The questions in this topic help you answer each one with a number.\n\n### Planning a road trip\n\nGas is often the biggest driving cost you can estimate ahead of time. If you know the route, you can work out the fuel cost from your car's mileage and the price per gallon. If you have a fixed budget instead, flip the question and see how far that money will take you. Both help when you're comparing driving with flying or deciding how many side trips to add.\n\n### Saving for a purchase\n\nFor a big purchase like a phone, a couch or a car repair, saving first usually beats putting it on a credit card. Card interest can add a lot to the price if you carry a balance. Figuring out how many months it will take at your current savings pace gives you a realistic buy date. It may also show that a slightly cheaper option gets you there much sooner.\n\n### Building a safety net\n\nAn emergency fund is money set aside for job loss, medical bills or a sudden repair. The common guidance is three to six months of essential expenses. Start by sizing the fund from what you must pay each month. If you already have savings, check how many months they would actually last. That tells you whether to keep building or move on to other goals.\n\nThese questions work well together. A solid emergency fund makes it easier to save for purchases and trips without worrying that one bad month will undo your progress. Once your safety net is in place, the savings topic can help with longer-term goals."
+  },
+  "pages": {
+    "road-trip-gas-cost": {
+      "intro": "Travelers ask this while planning a drive, often when deciding between driving and flying or splitting costs with friends. Working out the gas cost ahead of time gives you a firm number for the trip budget. It also helps you compare vehicles if you have more than one to choose from.",
+      "tips": [
+        "Get the total miles from a route planner, then add about 10% for detours, stops and wrong turns. Short side trips add up over a long drive.",
+        "Check gas prices along your route rather than at home. Prices vary from state to state, so use an average of the areas you'll pass through.",
+        "If you're splitting costs, divide the result by the number of riders. Settling it before you leave avoids awkward math at the end."
+      ],
+      "faq": [
+        {
+          "q": "What mpg should I use for a road trip?",
+          "a": "Start with your car's highway rating or the average your dashboard shows on highway drives. Lower it if you'll carry a full load, tow or drive fast. Mountain routes also use more fuel."
+        },
+        {
+          "q": "Is driving cheaper than flying?",
+          "a": "For groups, driving is often cheaper because the gas cost is shared. For a solo traveler on a long route, flying can win once you add lodging, food and time. Compare total trip costs, not just gas against airfare."
+        },
+        {
+          "q": "Should I include wear and tear on my car?",
+          "a": "Gas is only part of what driving costs. Tires, oil changes and depreciation add to it, especially on long trips. Some people add a per-mile figure for these to get a fuller picture."
+        }
+      ]
+    },
+    "how-far-on-my-gas-budget": {
+      "intro": "This question is for drivers working with a fixed amount, like a weekend fuel budget, a gas card or a set reimbursement. Starting from the dollars shows how many miles you can cover before you plan any stops. It helps you pick destinations that fit the money instead of discovering the cost afterward.",
+      "tips": [
+        "Save half the miles for the drive home. If the result is 600 miles, a destination about 300 miles away is your limit for a round trip.",
+        "Fill up where gas is cheaper along your route when you can. A lower price per gallon stretches the same budget further.",
+        "Hold part of the budget in reserve for traffic and idling. Stop-and-go driving burns fuel without adding many miles."
+      ],
+      "faq": [
+        {
+          "q": "How can I get better gas mileage on a trip?",
+          "a": "Drive at steady, moderate speeds and use cruise control on open highways. Keep tires properly inflated and remove roof racks you don't need. Lighter loads also help."
+        },
+        {
+          "q": "How do I find my car's real mpg?",
+          "a": "Fill the tank and reset the trip odometer. At the next fill-up, divide the miles driven by the gallons added. Repeating this a few times gives a reliable average."
+        },
+        {
+          "q": "Does using air conditioning lower my range?",
+          "a": "It can reduce mileage somewhat, especially in city driving. At highway speeds, open windows add drag, so the difference shrinks. In hot weather, comfort and safety usually matter more."
+        }
+      ]
+    },
+    "how-long-to-save-for-a-purchase": {
+      "intro": "People ask this before a planned purchase like a laptop, appliance or vacation, when they'd rather pay cash than use a card. Knowing how many months it takes gives you a target date to look forward to. It also helps you decide whether to wait, pick a cheaper option or save a bit more each month.",
+      "tips": [
+        "Include tax, shipping and any accessories in the goal amount. The sticker price is rarely the final cost.",
+        "Watch for seasonal sales near your projected finish date. Waiting a few extra weeks could lower the price you need to reach.",
+        "Keep the purchase fund apart from your emergency savings. That way, buying the item never leaves you short if something goes wrong."
+      ],
+      "faq": [
+        {
+          "q": "Is it better to save up or buy now with a credit card?",
+          "a": "Saving first means you pay no interest. If you'd carry a card balance, interest can raise the real cost a lot. A card can still make sense if you pay it off in full right away."
+        },
+        {
+          "q": "What about buy now, pay later plans?",
+          "a": "These split a purchase into a few payments, sometimes with no interest. Missed payments can bring fees, and several plans at once are easy to lose track of. Read the terms before you agree."
+        },
+        {
+          "q": "What if the price changes while I'm saving?",
+          "a": "Check the price every month or two and update your goal. If it drops, you finish sooner. If it rises, the calculator shows how much longer you'll need."
+        }
+      ]
+    },
+    "how-big-should-my-emergency-fund-be": {
+      "intro": "People ask this when they start saving seriously, change jobs or take on new bills like a mortgage or a child. Starting from your essential monthly costs gives you a clear target instead of a guess. Once you know the number, you can plan how long it will take to build.",
+      "tips": [
+        "List only the bills you'd still owe if your income stopped, like housing, utilities, food, insurance and minimum debt payments. Leave out dining out and subscriptions you'd cancel.",
+        "Choose more months if your income is irregular or your household has one earner. A two-income household with steady pay might be comfortable with fewer.",
+        "Revisit the number each year or after a big life change. A rent increase or a new dependent can make last year's target too small."
+      ],
+      "faq": [
+        {
+          "q": "Should I count unemployment benefits?",
+          "a": "Benefits can soften a job loss, but they may be smaller than your pay and take time to start. Many people plan without them and treat any benefits as extra. Check your state's program for details."
+        },
+        {
+          "q": "Can my emergency fund be too big?",
+          "a": "Yes, if extra cash could be paying down high-interest debt or going toward retirement. Money in savings usually earns less than long-term options. Once the fund is full, consider sending new savings elsewhere."
+        },
+        {
+          "q": "Is a credit card an emergency fund?",
+          "a": "A card can cover a sudden cost, but carrying the balance means paying interest. It also won't pay rent through a long job search. Cash keeps you from adding debt during a hard stretch."
+        }
+      ]
+    },
+    "how-long-will-my-emergency-fund-last": {
+      "intro": "This comes up when someone faces a layoff, a leave or a drop in income and needs to know their runway. Working from your current balance shows how many months your savings would cover essential bills. That number helps you decide how quickly to cut spending or look for new income.",
+      "tips": [
+        "Recalculate with a trimmed budget that cuts nonessential spending. Seeing how many extra months that buys can guide which expenses to pause.",
+        "Add any severance, final paycheck or expected benefits to the fund amount. They extend your runway even though they aren't in savings yet.",
+        "Plan for health insurance costs if you lose coverage through work. COBRA or a marketplace plan can raise your monthly expenses."
+      ],
+      "faq": [
+        {
+          "q": "What should I cut first to make my fund last longer?",
+          "a": "Start with spending you can easily restart later, like subscriptions, dining out and travel. Then call lenders and providers to ask about hardship options. Many offer short-term relief if you ask early."
+        },
+        {
+          "q": "When should I start using my emergency fund?",
+          "a": "Use it for real needs, like covering bills after lost income or paying for an urgent repair. Avoid tapping it for planned purchases. Once the emergency passes, focus on rebuilding it."
+        },
+        {
+          "q": "How do I rebuild my fund after using it?",
+          "a": "Restart regular deposits as soon as income returns, even small ones. Send windfalls like tax refunds there first. The emergency fund timeline question on this site shows when you'll be back to full."
+        }
+      ]
+    }
+  }
+}

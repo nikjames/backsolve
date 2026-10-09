@@ -1,0 +1,85 @@
+{
+  "hub": {
+    "guide": "Most shopping math is about one gap: the price on the tag versus the amount that leaves your account. Discounts, sales tax and tips all move that number. Backsolve answers these questions in either direction, so you can start from whatever you know.\n\n### Figuring out a sale\n\nThe most common question is simply what you will pay. The discount and tax question takes the tag price, the percent off and your local sales tax, then gives the total at the register. Sales tax varies by state and city, and it is usually added after the discount. If you only need quick sale math, the 20% off question handles that case.\n\nSometimes you see only the final price. The original price question works backwards to the price before the sale. That helps when a store shows a sale price without the old one, or when you want to check a receipt. The percent off question does the reverse. It tells you how big a discount really was, which helps when comparing a dollars-off deal with a percent-off deal.\n\nWatch for stacked discounts. Two discounts in a row multiply rather than add, so the combined savings is less than the two numbers added together. Running the math keeps a stacked coupon from looking better than it is.\n\n### Tipping and splitting\n\nAt a restaurant, the questions shift to tips and shares. In the US, 15% to 20% is customary for sit-down service, with more for great service. The tip question shows the tip and total for a given percentage. The split question divides the bill and tip across your group so nobody overpays or comes up short.\n\nMany people tip on the amount before tax, while others tip on the full total. Both are common, so pick one habit and enter the matching bill.\n\n### Why work backwards\n\nA forward calculation answers only one question. Working backwards lets you set a budget first and see what fits. You can check whether a sale meets your target price, or find the tip that rounds the total to an even number."
+  },
+  "pages": {
+    "price-after-discount-and-tax": {
+      "intro": "Shoppers ask this standing in a store or looking at an online cart, trying to figure out what a sale will actually cost. The tag shows a discount, but tax gets added later at the register. Getting the final number first lets you decide before checkout whether the deal fits your budget.",
+      "tips": [
+        "Look up the combined sales tax rate where you are shopping, since state and local rates add together. Online orders often use the rate for the shipping address.",
+        "If a coupon stacks on top of a sale, run the calculator twice. Use the first sale price, with tax set to 0, as the original price for the second discount.",
+        "Some items, such as groceries in many states, are taxed at a lower rate or not at all. Enter 0 for tax on those if your receipt shows none."
+      ],
+      "faq": [
+        {"q": "Is tax charged on the original price or the sale price?", "a": "In most US stores, tax is figured on the price after the discount. That is how this calculator works. Manufacturer coupons can be an exception in some states, where tax may apply to the pre-coupon price."},
+        {"q": "Why is my receipt off by a cent?", "a": "Stores round tax at different steps, sometimes per item and sometimes on the total. That can shift the result by a penny or two. The calculator's answer will be very close but may not match to the cent."},
+        {"q": "Does shipping get taxed too?", "a": "Rules for taxing shipping vary by state. This calculator covers the item price only. Your checkout page usually lists shipping and tax on separate lines, so check there for the full total."}
+      ]
+    },
+    "original-price-before-sale": {
+      "intro": "People ask this when a store shows only the sale price. Others have a receipt and want to know what an item used to cost. It also helps when checking whether a markdown is real. Working backwards from what you paid reveals the starting price and how much the discount was really worth.",
+      "tips": [
+        "Enter the total you paid including tax, along with the tax rate from your receipt. The calculator removes the tax before undoing the discount.",
+        "If you are checking a receipt, use the percent off printed on it, not the sign in the aisle. Signs sometimes say \"up to\" a percentage.",
+        "If the original price comes out well above what other stores charge for the same item, the reference price may be inflated. Compare prices before treating the sale as a bargain."
+      ],
+      "faq": [
+        {"q": "Can I just add the percentage back on?", "a": "No, that gives the wrong answer. A 25% discount comes off the original price, so adding 25% of the sale price back falls short. You have to divide by the share left after the discount, which the calculator does for you."},
+        {"q": "What if two discounts were applied?", "a": "Work backwards one step at a time. Undo the last discount first, then enter that result as the price you paid and undo the earlier one. Set tax to 0 for the second step so it is not removed twice."},
+        {"q": "Why doesn't the answer come out to a round number?", "a": "Tax and rounding at the register leave small leftovers in the price you paid. A result a few cents off a round figure usually points to the nearby tag price. Treat the answer as a close estimate."}
+      ]
+    },
+    "what-percent-off": {
+      "intro": "This comes up when a tag shows an old and new price but no percentage. It also helps when a dollars-off coupon makes a deal hard to judge. Knowing the actual percent lets you compare offers on equal terms. It also helps you decide whether to buy now or wait for a bigger sale.",
+      "tips": [
+        "To compare a dollars-off coupon with a percent-off coupon, turn the dollar deal into a percent here. The larger percent saves more on that item.",
+        "If you are working from a receipt that includes tax, enter the tax rate too. Leaving it out makes the discount look smaller than it was.",
+        "Check bundle deals by entering the bundle price against the full prices added up. Buy one, get one half off works out to 25% off the pair."
+      ],
+      "faq": [
+        {"q": "How do I figure percent off in my head?", "a": "Divide the dollars saved by the original price. For example, $15 off $60 is 15 divided by 60, or 25%. The calculator does the same thing and also accounts for tax."},
+        {"q": "Is 50% off then 20% off the same as 70% off?", "a": "No. The second discount applies to the already reduced price, so the total is 60% off. Stacked discounts always come to less than their sum."},
+        {"q": "Why does the store's percent differ from mine?", "a": "The store may compare against a list price that differs from the price you remember. Rounding can also shift the figure slightly. Use the original price you trust most for your own comparison."}
+      ]
+    },
+    "how-much-is-20-percent-off": {
+      "intro": "People search this mid-shop when a sign says 20% off and they want the dollar figure fast. It is a familiar discount on sale racks and coupon codes. Seeing both the new price and the amount saved helps you decide quickly, without doing mental math in the checkout line.",
+      "tips": [
+        "For a quick check, find 10% by moving the decimal one place left, then double it. On $50, 10% is $5, so 20% off saves $10.",
+        "Add your local sales tax if you want the register total. The example leaves tax at 0%, which shows only the sale price.",
+        "If a store takes an extra 20% off a sale item at checkout, run the calculator twice. The second 20% comes off the already reduced price."
+      ],
+      "faq": [
+        {"q": "Is 20% off the same as paying 80%?", "a": "Yes. Taking 20% off leaves 80% of the original price. Multiplying the price by 0.8 gives the same answer as subtracting the discount."},
+        {"q": "Which is better, 20% off or $20 off?", "a": "It depends on the price. On anything over $100, 20% off saves more. Below $100, the flat $20 coupon wins."},
+        {"q": "What does 20% off cost after tax?", "a": "At most US stores, tax is added after the discount. Multiply the sale price by one plus your tax rate. Enter your rate in the calculator to get the exact register total."}
+      ]
+    },
+    "how-much-to-tip": {
+      "intro": "Diners ask this at the end of a meal, often with the check in hand. It also comes up for takeout, delivery and other services where the custom is less clear. Picking a percentage and seeing the dollar tip and total helps you tip consistently and skip the second-guessing.",
+      "tips": [
+        "Decide whether you tip on the bill before or after tax, then use that figure every time. Consistency makes the decision faster.",
+        "If you want a round total, try a few percentages near your target. A small change often lands the total on an even dollar amount.",
+        "Check the receipt for a service charge or automatic gratuity before tipping. Bills for large parties sometimes include one already."
+      ],
+      "faq": [
+        {"q": "Should I tip on the total with tax or before tax?", "a": "Both are common in the US. Tipping on the pre-tax amount is a long-standing habit, while tipping on the total is slightly more generous. The difference is usually small on a typical meal."},
+        {"q": "How much should I tip for takeout?", "a": "Customs for takeout vary more than for table service. Some people leave a smaller tip or none, and others tip more for large or complicated orders. Try a lower percentage in the calculator to see the dollar amount."},
+        {"q": "Do I tip on the full price if I used a coupon?", "a": "Many people tip on the price before the discount. The server did the same work regardless of the coupon. Enter the undiscounted bill if you want to tip that way."}
+      ]
+    },
+    "split-the-bill": {
+      "intro": "Groups ask this when the check arrives and everyone wants to pay a fair share with the tip included. It saves passing the receipt around while someone works it out on a phone. An even split works well when people ordered similar amounts, and it gives each person one number to pay or send.",
+      "tips": [
+        "Agree on the tip percentage before anyone pays. That way no one ends up quietly covering a shortfall.",
+        "If one person ordered much more, take their items off the bill and split the rest. Then they pay their own items plus tip on top of their share.",
+        "Round each share up to a whole dollar when paying cash. The extra cents go to the tip instead of leaving the group short."
+      ],
+      "faq": [
+        {"q": "What if some people didn't drink?", "a": "Run the calculator twice. Split the drink total only among the people who drank, and split the food across everyone. Add the two shares for each drinker."},
+        {"q": "Can the restaurant split the check for us?", "a": "Many restaurants will split a check by card or by seat if you ask. Some limit how many cards they take on one bill. Asking when you order makes it easier for the server."},
+        {"q": "How do we handle tax when splitting?", "a": "Enter the bill including tax to split everything in one step. That figures the tip on the after-tax total, which is slightly more generous. On most group meals the difference is small."}
+      ]
+    }
+  }
+}

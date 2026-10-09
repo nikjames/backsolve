@@ -1,0 +1,205 @@
+{
+  "hub": {
+    "guide": "Housing is usually the largest monthly cost a household carries. Whether you buy or rent, the core question is the same. How much can you take on without straining the rest of your budget? The questions in this section start from the number you know and solve for the one you don't.\n\n### Deciding what you can buy\n\nIf you are starting a home search, the first step is a price range. The salary question applies the 28/36 guideline many lenders start from and turns your income and debts into a home price. If you already have a monthly payment in mind, the house affordability question and the $2,000 payment page turn that payment into a price. These answers cover principal and interest only. Property taxes, insurance and any HOA dues come on top, and they vary a lot by location.\n\n### Shaping the mortgage\n\nOnce you have a home or a price in mind, the main levers are the down payment and the interest rate. The mortgage payment question shows the monthly principal and interest on a given price. The down payment question tells you how much cash it takes to reach a target payment. The 20% down page shows what that milestone buys, since 20% down on a conventional loan generally avoids private mortgage insurance. The rate question shows the highest rate that keeps a home within reach. That helps when comparing lender quotes or deciding whether to pay for points.\n\n### Renting\n\nRenters face a simpler calculation but the same tradeoff. The rent affordability question applies the familiar 30% of income guideline, and you can adjust the share to fit your situation. The income question works the other way, showing what you need to earn for a given rent. That matters because many landlords screen applicants with a similar income test.\n\nFor any housing decision, a preapproval or a conversation with a lender gives you real numbers to plug in. Rules of thumb are a starting point, and your own spending tells you more."
+  },
+  "pages": {
+    "how-much-house-can-i-afford": {
+      "intro": "This is usually the first question people ask when they start thinking seriously about buying. Working back from a monthly payment gives you a realistic price ceiling before you tour homes. It also helps you set listing filters and talk to a lender with a clear number in mind.",
+      "tips": [
+        "Subtract estimated property taxes and homeowners insurance from your total housing budget before entering a payment. The payment field here covers principal and interest only.",
+        "Run the numbers at a slightly higher rate than you expect. Rates can move between preapproval and locking, and a buffer protects your price range.",
+        "Keep cash for closing costs and moving on top of the down payment. Putting every dollar into the down payment can leave you short at closing."
+      ],
+      "faq": [
+        {
+          "q": "What is included in a full mortgage payment?",
+          "a": "Lenders often describe it as PITI, which stands for principal, interest, taxes and insurance. Mortgage insurance and HOA dues may be added on top. This calculator covers principal and interest, so add the rest for your full monthly cost."
+        },
+        {
+          "q": "How is pre-qualification different from preapproval?",
+          "a": "Pre-qualification is a quick estimate based on information you provide. Preapproval involves the lender checking your credit and financial documents. A preapproval letter usually carries more weight with sellers."
+        },
+        {
+          "q": "Is it wise to buy at the top of my approved range?",
+          "a": "Lenders approve based on income and debt ratios, not your full budget. Childcare, savings goals and commuting costs are not part of their math. Many buyers choose a price below the maximum to keep some flexibility."
+        }
+      ]
+    },
+    "mortgage-payment": {
+      "intro": "Buyers check this when they are looking at a specific listing or comparing two homes. Seeing the principal and interest for a set price and down payment shows what the loan itself costs each month. From there you can add taxes and insurance for that address to get the full picture.",
+      "tips": [
+        "Look up the property tax on the listing and divide the yearly amount by 12. Add it to this result, since taxes differ widely even between nearby towns.",
+        "Compare a 30 year and a 15 year term at the same price. The shorter term has a higher payment but far less total interest.",
+        "With less than 20% down on a conventional loan, ask your lender for a mortgage insurance estimate. That cost is added to the payment shown here."
+      ],
+      "faq": [
+        {
+          "q": "How does a 15 year mortgage compare with a 30 year?",
+          "a": "A 15 year loan pays off the balance in half the time, so you pay interest for fewer years. Lenders often offer a lower rate on shorter terms as well. Change the loan length here to compare the payments directly."
+        },
+        {
+          "q": "Will my mortgage payment ever change?",
+          "a": "On a fixed-rate loan, principal and interest stay the same for the life of the loan. Your total payment can still rise if property taxes or insurance premiums go up. Adjustable-rate loans can also change after their fixed period ends."
+        },
+        {
+          "q": "What is an escrow account?",
+          "a": "Many lenders collect a share of property taxes and insurance with each mortgage payment. That money sits in an escrow account, and the lender pays those bills when due. It means your monthly payment covers more than principal and interest."
+        }
+      ]
+    },
+    "down-payment-needed": {
+      "intro": "People ask this when they have a price range and a payment goal, but not a clear savings target. Solving for the down payment turns that payment goal into a cash figure. That helps you plan a savings timeline or decide whether a different price makes more sense.",
+      "tips": [
+        "Compare your result with 20% of the price. If it falls below that on a conventional loan, budget for mortgage insurance on top of this payment.",
+        "Some loan programs allow low down payments, including FHA, VA and USDA loans. Ask a lender which ones you qualify for before assuming you need a large sum.",
+        "If family is helping with gift money, ask your lender about paperwork early. Lenders often require a gift letter and records showing where the funds came from."
+      ],
+      "faq": [
+        {
+          "q": "What is the minimum down payment for a house?",
+          "a": "It depends on the loan type. Some conventional loans allow as little as 3% down, and FHA loans can allow 3.5% with qualifying credit. VA and USDA loans may require none for eligible buyers. A lender can confirm what applies to you."
+        },
+        {
+          "q": "Does mortgage insurance ever go away?",
+          "a": "On conventional loans, private mortgage insurance can usually be removed once you build enough equity, often around 20%. FHA mortgage insurance follows different rules and may last longer. Ask your lender how removal works for your loan."
+        },
+        {
+          "q": "Is it better to put more down or keep cash in savings?",
+          "a": "A bigger down payment lowers your payment and total interest. Keeping cash gives you a cushion for repairs and emergencies after you move in. Many buyers aim for a balance between the two."
+        }
+      ]
+    },
+    "mortgage-rate-needed": {
+      "intro": "This question helps buyers who have a home in mind and a firm payment limit. It tells you the highest rate at which that home still fits. You can then judge lender quotes against a clear threshold and decide whether options like buying points are worth a look.",
+      "tips": [
+        "Collect quotes from a few lenders on the same day and compare them with the needed rate. Rates and fees can differ noticeably between lenders.",
+        "If your quote sits slightly above the needed rate, ask about discount points. Points cost money upfront, so work out how many years it takes to break even.",
+        "Look at the APR as well as the rate on each quote. A low rate with high fees can cost more than a slightly higher rate with lower fees."
+      ],
+      "faq": [
+        {
+          "q": "What are mortgage points?",
+          "a": "Discount points are an upfront fee paid at closing to lower your interest rate. Each point usually costs 1% of the loan amount. They tend to make more sense if you plan to keep the loan for many years."
+        },
+        {
+          "q": "What is a rate lock?",
+          "a": "A rate lock holds a quoted rate for a set period while your loan is processed. If rates rise during that time, your rate stays the same. Ask how long the lock lasts and what happens if closing is delayed."
+        },
+        {
+          "q": "Can I refinance if mortgage rates drop later?",
+          "a": "Refinancing replaces your mortgage with a new one, often to get a lower rate. It comes with closing costs, so the savings need to outweigh them. Buying on the hope of a future refinance adds risk if rates don't fall."
+        }
+      ]
+    },
+    "house-with-2000-payment": {
+      "intro": "A $2,000 monthly payment is a common target for buyers weighing a mortgage against their current rent. This page shows the home price that payment supports with typical terms. Adjust the down payment or rate to see how far $2,000 stretches in your own situation.",
+      "tips": [
+        "Decide whether $2,000 is your total housing cost or just principal and interest. If it is the total, subtract taxes and insurance and enter the smaller number here.",
+        "If you are comparing with rent, remember that owners also pay for repairs and maintenance. Setting aside money for upkeep makes the comparison fairer.",
+        "Try raising the down payment to 20% and compare the price. Avoiding mortgage insurance can make the same $2,000 go further."
+      ],
+      "faq": [
+        {
+          "q": "What income do I need for a $2,000 mortgage payment?",
+          "a": "Under the 28% part of the 28/36 guideline, a $2,000 housing payment fits a gross income of about $85,700 a year. Your other debts can lower that limit. The salary calculator factors them in."
+        },
+        {
+          "q": "How much does the interest rate change what $2,000 buys?",
+          "a": "Rates have a large effect on a 30 year loan. A one point change can shift the affordable price by tens of thousands of dollars. Change the rate field to see the effect with your numbers."
+        },
+        {
+          "q": "Is a $2,000 mortgage the same as paying $2,000 in rent?",
+          "a": "Not quite. Owners pay property taxes, insurance and maintenance, which renters usually don't. Owners also build equity as the loan is paid down, which renters don't."
+        }
+      ]
+    },
+    "house-with-20-percent-down": {
+      "intro": "Buyers ask this when they are saving toward the 20% mark or already have it. Putting 20% down on a conventional loan generally avoids private mortgage insurance. This page shows the price a set payment supports at that level, so you can see what the milestone does to your range.",
+      "tips": [
+        "Compare this result with the same payment at 10% down. The difference shows how much buying power the larger down payment adds.",
+        "Check that your savings cover 20% of the price this page returns, not your original target price. A higher price means a larger dollar amount for the same percentage.",
+        "If you are close to 20% but not there yet, ask a lender to quote both options. The mortgage insurance cost depends partly on your credit, so the gap may be smaller or larger than you expect."
+      ],
+      "faq": [
+        {
+          "q": "Is 20% down required to buy a house?",
+          "a": "No. Many loans allow much smaller down payments. The 20% mark matters mainly because it avoids private mortgage insurance on conventional loans."
+        },
+        {
+          "q": "How much cash do I need besides the down payment?",
+          "a": "Closing costs, moving expenses and reserves all add to the cash you need. Closing costs vary by location and loan, so ask a lender for a Loan Estimate. Some lenders also want savings left in your account after closing."
+        },
+        {
+          "q": "Does 20% down get me a better interest rate?",
+          "a": "It can. Lenders often price loans partly on the loan-to-value ratio, and more equity can mean a lower rate. Get quotes at different down payments to see how your lender prices it."
+        }
+      ]
+    },
+    "how-much-house-on-my-salary": {
+      "intro": "This is the question for people starting from their paycheck rather than a payment. It suits first-time buyers and anyone whose income recently changed. Using your income and existing debts gives a price range close to how lenders first size up an application.",
+      "tips": [
+        "Use gross income before taxes, since the 28/36 guideline is based on it. Include a co-borrower's income only if that person will be on the loan.",
+        "List every required monthly debt payment, including student loans, car loans and card minimums. Leaving one out can overstate your price range.",
+        "If the 36% debt test is what limits your result, paying off a small loan may raise your range. Remove that payment and see how much the price changes."
+      ],
+      "faq": [
+        {
+          "q": "What is the 28/36 rule?",
+          "a": "It is a guideline many lenders start from. Housing costs should stay at or below 28% of gross monthly income, and all debt payments together at or below 36%. Some loan programs allow higher ratios."
+        },
+        {
+          "q": "Do lenders use gross pay or take-home pay?",
+          "a": "Lenders generally use gross income, before taxes and deductions. Your take-home pay is what you actually budget with, though. Check that the payment also fits your net income."
+        },
+        {
+          "q": "How is self-employed income counted for a mortgage?",
+          "a": "Lenders often average self-employment income over recent tax returns, commonly two years. Deductions that lower your taxable income can also lower your qualifying income. A lender can explain how your situation will be treated."
+        }
+      ]
+    },
+    "how-much-rent-can-i-afford": {
+      "intro": "Renters ask this when they start an apartment search or plan a move to a new city. Turning income into a monthly rent limit lets you filter listings with confidence. It also helps you check whether a place you like will pass a landlord's income screening.",
+      "tips": [
+        "Add expected utilities, parking and renters insurance to the rent before comparing it with your limit. Some listings include utilities and others don't.",
+        "If you carry large student loan or car payments, try a share below 30%. Those debts take up room that the simple rule doesn't account for.",
+        "With roommates, enter your own income and compare the result with your share of the rent. Landlords may still look at combined income, so ask how they screen."
+      ],
+      "faq": [
+        {
+          "q": "Is the 30% rule realistic?",
+          "a": "It is a long-standing guideline, not a requirement. In expensive cities many renters spend more, while others spend less to save. Adjust the share to match your other costs."
+        },
+        {
+          "q": "Should I use gross or net income for the 30% rule?",
+          "a": "The 30% rule is traditionally based on gross income. If your take-home pay is much lower because of taxes or deductions, try your net income for a stricter check."
+        },
+        {
+          "q": "What can I do if the rent I want is above my limit?",
+          "a": "Common options include a roommate, a smaller unit or a different neighborhood. Some landlords accept a guarantor or a larger deposit when income falls short. Ask about this before you apply."
+        }
+      ]
+    },
+    "income-needed-for-rent": {
+      "intro": "This question comes up when you find an apartment and want to know if you qualify. It is also useful when weighing a job offer in a new city. Solving for income shows the salary a given rent requires, which often mirrors the test landlords use to screen applicants.",
+      "tips": [
+        "Ask the landlord which income test they use before applying. Some use 40 times the monthly rent, and others use a different multiple.",
+        "If you are applying with roommates or a partner, check whether the landlord counts combined income. Split the result between applicants only if they do.",
+        "Gather recent pay stubs or an offer letter before you apply. Landlords often ask for proof that your income meets their requirement."
+      ],
+      "faq": [
+        {
+          "q": "What does 40 times the rent mean?",
+          "a": "It means your yearly gross income should be at least 40 times the monthly rent. For $1,800 rent, that is $72,000 a year. It works out to spending 30% of income on rent."
+        },
+        {
+          "q": "What if I don't meet a landlord's income requirement?",
+          "a": "Some landlords accept a guarantor or co-signer with higher income. Others may ask for a larger deposit or several months of rent upfront. Policies vary, so ask before applying."
+        },
+        {
+          "q": "Does income from side work count toward the requirement?",
+          "a": "Many landlords count any income you can document, such as freelance or part-time pay. They may ask for tax returns or bank statements as proof. Ask what documents they accept."
+        }
+      ]
+    }
+  }
+}
